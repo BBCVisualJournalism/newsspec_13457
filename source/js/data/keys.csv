@@ -1,0 +1,9 @@
+VALUE,RGB,LABEL
+100,0|0|0,
+67.1,246|137|34,More than 10 above average
+62.1,255|187|51,5-10 above average
+57.1,255|204|102,0-5 above average
+52.1,193|211|222,0-5 below average
+47.1,154|187|204,5-10 below average
+0,52|102|153,More than 10 below average
+-1,199|198|198,No available data

@@ -1,0 +1,27 @@
+{
+  "name": "bbc-vj-app-manager",
+  "homepage": "https://github.com/BBCVisualJournalism/app_manager",
+  "authors": [
+    "fewstera <aidan.fewster@bbc.co.uk>",
+    "chelozzz <marcelo.zanni@bbc.co.uk>"
+  ],
+  "main": "main.js",
+  "description": "App Manager for displaying visual journalism content in the BBC News App",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "4984f63d44",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4984f63d44f25bda4027a5734aebcc30d8d06994"
+  },
+  "_source": "https://github.com/BBCVisualJournalism/appmanager.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/BBCVisualJournalism/appmanager.git"
+}

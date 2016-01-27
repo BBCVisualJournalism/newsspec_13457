@@ -1,0 +1,27 @@
+{
+  "name": "bbc-vj-sharetools",
+  "description": "BBC VJ Sharetools Module",
+  "main": "sharetools.js",
+  "authors": [
+    "fewstera <aidan.fewster@bbc.co.uk>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bbc/news-vj-sharetools",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "70fc406eeb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "70fc406eeb31865742b9b75c56be8056b297bde6"
+  },
+  "_source": "https://github.com/bbc/news-vj-sharetools.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/bbc/news-vj-sharetools.git"
+}
